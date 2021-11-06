@@ -1,9 +1,3 @@
-# The following code is by no means perfect but
-# I am willing learn new designing methods to make it better.
-# I am mostly used to programming in C++ and
-# Java as it will be evident in my coding style.
-# I have taken help of online resources while coding this exercise.
-
 # ------------------------------------------------------------------------------------------------------------------------------------------
 #                                   Use the following command to run the code: python3 code.py > output.txt
 # ------------------------------------------------------------------------------------------------------------------------------------------
